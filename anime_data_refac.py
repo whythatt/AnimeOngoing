@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-from bs4.element import whitespace_re
 import requests
 
 
@@ -43,7 +42,14 @@ class Animego(Website):
             ).find(class_="poster-item__label")
             # если есть число вышелших серий, то я добавляю в список, если нет, то пропускаю
             try:
-                anime_episodes.append(eps.text)
+                if "серия" in eps.text:
+                    eps = eps.text.replace("серия", "episodes")
+                elif "серий" in eps.text:
+                    eps = eps.text.replace("серий", "episodes")
+                elif "серии" in eps.text:
+                    eps = eps.text.replace("серии", "episodes")
+
+                anime_episodes.append(eps)
             except AttributeError:
                 anime_episodes.append("Not episodes")
 
@@ -52,6 +58,8 @@ class Animego(Website):
             rating.find(class_="poster-item__rating").text.strip()
             for rating in anime_links
         ]
+
+        print(anime_episodes)
 
 
 html = Animego().fetch_page()
