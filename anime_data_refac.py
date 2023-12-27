@@ -1,67 +1,57 @@
+# дальше нужно спарсить второй сайт, сложить все в один список и в отдельной \
+# функции записать все в json файл
+
 from bs4 import BeautifulSoup
 import requests
+import re
 
 
 # https://animeschedule.net/shows?mt=all&airing-statuses=Ongoing
-class Website:
-    def __init__(self):
+class WebsiteParser:
+    def __init__(self, url):
+        self.url = url
         self.headers = {
             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
         }
 
-    def fetch_page(self):
-        response = requests.get(self.base_url, headers=self.headers)
+    def fetch_page(self, html):
+        response = requests.get(html, headers=self.headers)
         if response.status_code == 200:
             return response.text
         else:
             return f"[FAIL] status code = {response.status_code}"
 
-
-class Animego(Website):
-    base_url = "https://animego.online/ongoing/"
-
-    def __init__(self):
-        super().__init__()
-
-    def parser(self, html):
+    def animeScheduleParser(self, html):
         soup = BeautifulSoup(html, "lxml")
-        # собираю все блоки с данными об аниме
-        anime_links = soup.find(id="dle-content").find_all(
-            "a", class_="poster-item grid-item"
-        )
-        # собираю название
-        anime_titles = [
-            title.find(class_="poster-item__title").text for title in anime_links
-        ]
 
-        # собираю число эпизодов которые вышли
-        anime_episodes = []
-        for eps in anime_links:
-            eps = eps.find(
-                class_="poster-item__img img-fit-cover img-responsive img-responsive--portrait"
-            ).find(class_="poster-item__label")
-            # если есть число вышелших серий, то я добавляю в список, если нет, то пропускаю
-            try:
-                if "серия" in eps.text:
-                    eps = eps.text.replace("серия", "episodes")
-                elif "серий" in eps.text:
-                    eps = eps.text.replace("серий", "episodes")
-                elif "серии" in eps.text:
-                    eps = eps.text.replace("серии", "episodes")
+        all_anime = soup.find_all("div", class_="anime-tile lozad")
+        for anime in all_anime:
+            anime_link = "https://animeschedule.net/" + anime["itemid"]
+            soup = BeautifulSoup(self.fetch_page(anime_link), "lxml")
 
-                anime_episodes.append(eps)
-            except AttributeError:
-                anime_episodes.append("Not episodes")
+            first_block = soup.find(id="release-times-section")
+            next_episode_count = first_block.find(
+                "span", class_="release-time-episode-number"
+            )
 
-        # собираю рейтинг
-        anime_rating = [
-            rating.find(class_="poster-item__rating").text.strip()
-            for rating in anime_links
-        ]
+            title = anime.find("h2", class_="anime-tile-title")
+            release_date = anime.find(
+                class_="anime-tile-bottom-item anime-tile-datetime"
+            )  # .text.split("\n")[1]
 
-        print(anime_episodes)
+            episode_duration = anime["duration"]
+            total_episodes = anime["episodes"]
+            rating = anime["score"]
+            print(next_episode_count.text)
+
+    def run(self):
+        html = self.fetch_page(self.url)
+        self.animeScheduleParser(html)
 
 
-html = Animego().fetch_page()
-parser = Animego().parser(html)
-print(parser)
+# вызываю парсер для AnimeSchedule
+animeschedule = WebsiteParser(
+    "https://animeschedule.net/shows?mt=all&airing-statuses-exclude=Finished"
+)
+
+animeschedule.run()
