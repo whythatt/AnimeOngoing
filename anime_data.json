@@ -1,0 +1,6052 @@
+{
+    "One Piece": {
+        "next_episode_count": "1089",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Fall 1999",
+        "release_date": "Oct 20, 1999",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": "9.05"
+    },
+    "Sousou no Frieren": {
+        "next_episode_count": "17",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "TV",
+        "season": "Fall 2023",
+        "release_date": "Sep 29, 2023",
+        "status": "Ongoing",
+        "episode_duration": "25m",
+        "score": "9.07"
+    },
+    "Solo Leveling": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 06, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su": {
+        "next_episode_count": "14",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Fall 2023",
+        "release_date": "Oct 01, 2023",
+        "status": "Ongoing",
+        "episode_duration": "25m",
+        "score": "7.84"
+    },
+    "Tsuki ga Michibiku Isekai Douchuu 2": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 08, 2024",
+        "status": "Upcoming",
+        "episode_duration": "23m",
+        "score": null
+    },
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3": {
+        "next_episode_count": "2",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 03, 2024",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tensei shitara Slime Datta Ken 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Undead Unluck": {
+        "next_episode_count": "14",
+        "release_date_next_ep": "Jan 12, 2024",
+        "mediatype": "TV",
+        "season": "Fall 2023",
+        "release_date": "Oct 06, 2023",
+        "status": "Delayed",
+        "episode_duration": "24m",
+        "score": "8.01"
+    },
+    "Ragna Crimson": {
+        "next_episode_count": "13",
+        "release_date_next_ep": "Jan 13, 2024",
+        "mediatype": "TV",
+        "season": "Fall 2023",
+        "release_date": "Sep 30, 2023",
+        "status": "Delayed",
+        "episode_duration": "24m",
+        "score": "7.67"
+    },
+    "Maou Gakuin no Futekigousha 2 Part 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "One Punch Man 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Seirei Gensouki 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kusuriya no Hitorigoto": {
+        "next_episode_count": "13",
+        "release_date_next_ep": "Jan 13, 2024",
+        "mediatype": "TV",
+        "season": "Fall 2023",
+        "release_date": "Oct 21, 2023",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": "8.46"
+    },
+    "Kono Subarashii Sekai ni Shukufuku wo! 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 07, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mato Seihei no Slave": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 04, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 04, 2024",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 06, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Youjo Senki II": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Chiyu Mahou no Machigatta Tsukaikata": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 05, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 04, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 04, 2024",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Arifureta Shokugyou de Sekai Saikyou 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tensei Shitara Ken Deshita 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ao no Exorcist: Shimane Illuminati-hen": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 06, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kimetsu no Yaiba: Hashira Geiko-hen": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Dungeon Meshi": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 04, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 04, 2024",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Boku no Hero Academia 7": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "May 04, 2024",
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "May 04, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.": {
+        "next_episode_count": "2",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 01, 2024",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Overlord: Sei Oukoku-hen": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 12, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 12, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ishura": {
+        "next_episode_count": "2",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 03, 2024",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Nozomanu Fushi no Boukensha": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 08, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Boku no Kokoro no Yabai Yatsu 2": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 05, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kekkon Yubiwa Monogatari": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 06, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Meitantei Conan": {
+        "next_episode_count": "1109",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Winter 1996",
+        "release_date": "Jan 08, 1996",
+        "status": "Ongoing",
+        "episode_duration": "25m",
+        "score": "7.89"
+    },
+    "Jaku-Chara Tomozaki-kun 2nd STAGE": {
+        "next_episode_count": "2",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 03, 2024",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tsuyokute New Saga": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Enen no Shouboutai: San no Shou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 06, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Dosanko Gal wa Namara Menkoi": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 08, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Re:Zero kara Hajimeru Isekai Seikatsu 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 09, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 09, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sono Bisque Doll wa Koi wo Suru (Zoku-hen)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kami no Tou 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Summer 2024",
+        "release_date": "Jul 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Nanatsu no Taizai: Mokushiroku no Yonkishi": {
+        "next_episode_count": "12",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Fall 2023",
+        "release_date": "Oct 08, 2023",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "FAIRY TAIL: 100 YEARS QUEST": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "[Oshi no Ko] Season 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Otomege Sekai wa Mob ni Kibishii Sekai desu 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 07, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Uzumaki": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tomodachi no Imouto ga Ore ni dake Uzai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Date A Live V": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Blue Lock 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Majo to Yajuu": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 11, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    " Mahou Shoujo ni Akogarete": {
+        "next_episode_count": "2",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 03, 2024",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hime-sama, \"Goumon\" no Jikan desu": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 08, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kami wa Game ni Ueteiru.": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Gekai Elise": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 10, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kaijuu 8-gou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "METALLIC ROUGE": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 10, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Oroka na Tenshi wa Akuma to Odoru": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 08, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Megumi no Daigo: Kyuukoku no Orange": {
+        "next_episode_count": "13",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Fall 2023",
+        "release_date": "Sep 30, 2023",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Yubisaki to Renren": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 06, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sasaki to Pi-chan": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 05, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tantei wa Mou, Shindeiru. Season 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Gimai Seikatsu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mobius Dust": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mahouka Koukou no Rettousei 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Fumetsu no Anata e 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Holo no Graffiti": {
+        "next_episode_count": "242",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "ONA",
+        "season": "Spring 2019",
+        "release_date": "May 05, 2019",
+        "status": "Ongoing",
+        "episode_duration": "2m",
+        "score": "8.19"
+    },
+    "Pon no Michi": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 05, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jigokuraku 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Haikyuu!!: Gomi Suteba no Kessen": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Feb 16, 2024",
+        "mediatype": "Movie",
+        "season": "Winter 2024",
+        "release_date": "Feb 16, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Pok\u00e9mon Horizons: The Series": {
+        "next_episode_count": "34",
+        "release_date_next_ep": "Jan 12, 2024",
+        "mediatype": "TV",
+        "season": "Spring 2023",
+        "release_date": "Apr 14, 2023",
+        "status": "Delayed",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Kyuujitsu no Warumono-san": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 07, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tensei Kizoku, Kantei Skill de Nariagaru": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Urusei Yatsura (2022) 2nd Season": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 11, 2024",
+        "status": "Upcoming",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Isekai Shikkaku": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ookami to Koushinryou: merchant meets the wise wolf": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sengoku Youko": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 10, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sword Art Online (Original Movie)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Xian Wang De Richang Shenghuo 4": {
+        "next_episode_count": "5",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Winter 2024",
+        "release_date": "Dec 17, 2023",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Momochi-san Chi no Ayakashi Ouji": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 05, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Meitou \"Isekai no Yu\" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "TV Short",
+        "season": "Winter 2024",
+        "release_date": "Jan 11, 2024",
+        "status": "Upcoming",
+        "episode_duration": "5m",
+        "score": null
+    },
+    "SHAMAN KING FLOWERS": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 09, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 09, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Unnamed Memory": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Disney: Twisted-Wonderland": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Akira (Shin Anime)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    " Blue Lock: EPISODE Nagi": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Apr 19, 2024",
+        "mediatype": "Movie",
+        "season": "Spring 2024",
+        "release_date": "Apr 19, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "HIGH CARD Season 2": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 08, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mahou Shoujo Madoka\u2606Magica: Walpurgis no Kaiten": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "Winter 2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sasayaku You ni Koi wo Utau": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Crayon Shin-chan": {
+        "next_episode_count": "1214",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Spring 1992",
+        "release_date": "Apr 13, 1992",
+        "status": "Ongoing",
+        "episode_duration": "21m",
+        "score": null
+    },
+    "NieR:Automata Ver1.1a Part 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Bartender: Kami no Glass": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (Shin Anime)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Doraemon (2005)": {
+        "next_episode_count": "711",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Spring 2005",
+        "release_date": "Apr 15, 2005",
+        "status": "Ongoing",
+        "episode_duration": "25m",
+        "score": null
+    },
+    "Sentai Daishikkaku": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yuru Camp\u25b3: SEASON 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    " 2.5 Jigen no Ririsa": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yozakura-san Chi no Daisakusen": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Bucchigiri?!": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 13, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 13, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Lycoris Recoil (Shinsaku Animation)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yu\u2606Gi\u2606Oh! Go Rush!!": {
+        "next_episode_count": "91",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Spring 2022",
+        "release_date": "Apr 02, 2022",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Quanzhi Gaoshou 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kingdom 5": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 06, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "WIND BREAKER": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ninjala": {
+        "next_episode_count": "101",
+        "release_date_next_ep": "Jan 19, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2022",
+        "release_date": "Jan 08, 2022",
+        "status": "Delayed",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Sword Art Online Alternative: Gun Gale Online 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Suicide Squad Isekai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sazae-san": {
+        "next_episode_count": "2716",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Fall 1969",
+        "release_date": "Oct 05, 1969",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Da Wang Rao Ming 2": {
+        "next_episode_count": "3",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Winter 2024",
+        "release_date": "Dec 30, 2023",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tian Guan Ci Fu 2": {
+        "next_episode_count": "11",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Oct 18, 2023",
+        "status": "Ongoing",
+        "episode_duration": "26m",
+        "score": null
+    },
+    "SYNDUALITY Noir: Part 2": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 08, 2024",
+        "status": "Upcoming",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Code Geass: Dakkan no Roz\u00e9": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "Spring 2024",
+        "release_date": "May 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "World End Economica": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tousouchuu: Great Mission": {
+        "next_episode_count": "38",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Spring 2023",
+        "release_date": "Apr 02, 2023",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "BEASTARS FINAL SEASON": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "SK8 the Infinity 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kaii to Otome to Kamikakushi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "PazuDora": {
+        "next_episode_count": "288",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Spring 2018",
+        "release_date": "Apr 02, 2018",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Yuri!!! on Ice The Movie: Ice Adolescence": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Zombieland Saga Movie": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Watashi no Shiawase na Kekkon 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Captain Tsubasa: Season 2 - Junior Youth-hen": {
+        "next_episode_count": "14",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Fall 2023",
+        "release_date": "Oct 01, 2023",
+        "status": "Ongoing",
+        "episode_duration": "22m",
+        "score": null
+    },
+    "Hananoi-kun to Koi no Yamai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hirogaru Sky! Precure": {
+        "next_episode_count": "47",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2023",
+        "release_date": "Feb 04, 2023",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Ane Naru Mono": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "OVA",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Nijuuseiki Denki Mokuroku": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hibike! Euphonium 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 10, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Super Dragon Ball Heroes": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Summer 2018",
+        "release_date": "Jul 01, 2018",
+        "status": "Ongoing",
+        "episode_duration": "9m",
+        "score": "6.41"
+    },
+    "Shen Yin Wangzuo 2": {
+        "next_episode_count": "63",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2022",
+        "release_date": "Nov 10, 2022",
+        "status": "Ongoing",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "Re:Monster": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kono Sekai wa Fukanzen Sugiru": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hikari no Ou 2nd Season": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 14, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 14, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Gekkan Mousou Kagaku": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 11, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Trigun Stampede (Kanketsu-hen)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Maou 2099": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Boku no Hero Academia THE MOVIE 4": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "Summer 2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Chibi Maruko-chan (1995)": {
+        "next_episode_count": "1421",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Winter 1995",
+        "release_date": "Jan 08, 1995",
+        "status": "Ongoing",
+        "episode_duration": "23m",
+        "score": null
+    },
+    "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sabikui Bisco 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jii-san Baa-san Wakagaeru": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ni Tian Zhizun": {
+        "next_episode_count": "260",
+        "release_date_next_ep": "Oct 06, 2025",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2021",
+        "release_date": "Jul 16, 2021",
+        "status": "Ongoing",
+        "episode_duration": "14m",
+        "score": "7.86"
+    },
+    "Giji Harem": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ling Jian Zun 4": {
+        "next_episode_count": "350",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2020",
+        "release_date": "Sep 08, 2020",
+        "status": "Ongoing",
+        "episode_duration": "11m",
+        "score": null
+    },
+    "SK8 The Infinity OVA": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "OVA",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yoru no Kurage wa Oyogenai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "One Room, Hi Atari Futsuu, Tenshi Tsuki.": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sore Ike! Anpanman": {
+        "next_episode_count": "1646",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "TV",
+        "season": "Fall 1988",
+        "release_date": "Oct 03, 1988",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "DOG SIGNAL": {
+        "next_episode_count": "11",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV",
+        "season": "Fall 2023",
+        "release_date": "Oct 22, 2023",
+        "status": "Ongoing",
+        "episode_duration": "25m",
+        "score": null
+    },
+    "Jueshi Wu Hun": {
+        "next_episode_count": "338",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2020",
+        "release_date": "Oct 25, 2020",
+        "status": "Ongoing",
+        "episode_duration": "11m",
+        "score": null
+    },
+    "Dubu Xiaoyao": {
+        "next_episode_count": "380",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2020",
+        "release_date": "Jun 18, 2020",
+        "status": "Ongoing",
+        "episode_duration": "12m",
+        "score": null
+    },
+    "ATRI: My Dear Moments": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Chiikawa": {
+        "next_episode_count": "132",
+        "release_date_next_ep": "Jan 01, 2024",
+        "mediatype": "TV Short",
+        "season": "Spring 2022",
+        "release_date": "Apr 04, 2022",
+        "status": "Ongoing",
+        "episode_duration": "2m",
+        "score": null
+    },
+    "Chou Futsuu Ken Chiba Densetsu": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 05, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wu Dong Qian Kun 4": {
+        "next_episode_count": "8",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Nov 25, 2023",
+        "status": "Ongoing",
+        "episode_duration": "25m",
+        "score": null
+    },
+    "Kuroshitsuji: Kishuku Gakkou-hen": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wan Jie Du Zun 2": {
+        "next_episode_count": "147",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2022",
+        "release_date": "Aug 16, 2022",
+        "status": "Ongoing",
+        "episode_duration": "10m",
+        "score": null
+    },
+    "Yuuki Bakuhatsu Bang Bravern": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 11, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tokyo BABYLON 2021": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kimi ni Todoke 3rd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Duel Masters Win: Duel Wars": {
+        "next_episode_count": "38",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV",
+        "season": "Spring 2023",
+        "release_date": "Apr 01, 2023",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Rekishi ni Nokoru Akujo ni Naruzo": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Given: Hiiragi mix": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 27, 2024",
+        "mediatype": "Movie",
+        "season": "Winter 2024",
+        "release_date": "Jan 27, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Lian Qi Shi Wan Nian": {
+        "next_episode_count": "96",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Winter 2023",
+        "release_date": "Feb 18, 2023",
+        "status": "Ongoing",
+        "episode_duration": "8m",
+        "score": null
+    },
+    "Naze Boku no Sekai wo Daremo Oboeteinai no ka?": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Odekake Kozame": {
+        "next_episode_count": "25",
+        "release_date_next_ep": "Jan 01, 2024",
+        "mediatype": "ONA",
+        "season": "Summer 2023",
+        "release_date": "Aug 01, 2023",
+        "status": "Ongoing",
+        "episode_duration": "2m",
+        "score": null
+    },
+    "Dou Po Cangqiong: Nian Fan 2": {
+        "next_episode_count": "26",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2023",
+        "release_date": "Jul 16, 2023",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Grisaia: Phantom Trigger THE ANIMATION": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wushen Zhuzai: Da Wei Pian": {
+        "next_episode_count": "128",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2022",
+        "release_date": "Oct 16, 2022",
+        "status": "Ongoing",
+        "episode_duration": "7m",
+        "score": null
+    },
+    "Gekijou Soushuu-hen Bocchi the Rock! - Zenpen": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "Spring 2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Douluo Dalu 2: Jueshi Tangmen": {
+        "next_episode_count": "30",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2023",
+        "release_date": "Jun 24, 2023",
+        "status": "Ongoing",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "Beyblade X": {
+        "next_episode_count": "13",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "TV",
+        "season": "Fall 2023",
+        "release_date": "Oct 06, 2023",
+        "status": "Ongoing",
+        "episode_duration": "22m",
+        "score": null
+    },
+    "Wangu Shenhua": {
+        "next_episode_count": "150",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2022",
+        "release_date": "Aug 15, 2022",
+        "status": "Ongoing",
+        "episode_duration": "8m",
+        "score": null
+    },
+    "Amagami-san Chi no Enmusubi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Seiyuu Radio no Uraomote": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Nige Jouzu no Wakagimi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Henjin no Salad Bowl": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wu Shang Shen Di 2": {
+        "next_episode_count": "277",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Spring 2021",
+        "release_date": "May 21, 2021",
+        "status": "Ongoing",
+        "episode_duration": "7m",
+        "score": null
+    },
+    "Fate/kaleid liner Prisma\u2606Illya (Zoku-hen)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wan Jie Xian Zong 5": {
+        "next_episode_count": "238",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2021",
+        "release_date": "Jun 28, 2021",
+        "status": "Ongoing",
+        "episode_duration": "7m",
+        "score": null
+    },
+    "Zhe Tian": {
+        "next_episode_count": "39",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Spring 2023",
+        "release_date": "May 03, 2023",
+        "status": "Ongoing",
+        "episode_duration": "25m",
+        "score": null
+    },
+    "Snack Basue": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 12, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 12, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "To the Moon": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Maou-sama, Retry! R": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Katsugeki Touken Ranbu Movie": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tunshi Xingkong 4": {
+        "next_episode_count": "16",
+        "release_date_next_ep": "Jan 09, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Oct 03, 2023",
+        "status": "Ongoing",
+        "episode_duration": "21m",
+        "score": null
+    },
+    "Dead Dead Demon's Dededede Destruction": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Mar 22, 2024",
+        "mediatype": "Movie",
+        "season": "Spring 2024",
+        "release_date": "Mar 22, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Da Zhuzai": {
+        "next_episode_count": "30",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2023",
+        "release_date": "Jun 30, 2023",
+        "status": "Ongoing",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "Mainichi JK Kikaku": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Koi wa Futago de Warikirenai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Summer 2024",
+        "release_date": "Jul 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Blue Archive The Animation": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Fate/strange Fake": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Bing Huo Mo Chu 2": {
+        "next_episode_count": "72",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2022",
+        "release_date": "Dec 03, 2022",
+        "status": "Ongoing",
+        "episode_duration": "15m",
+        "score": null
+    },
+    "BONOBONO (2016)": {
+        "next_episode_count": "391",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV Short",
+        "season": "Spring 2016",
+        "release_date": "Apr 01, 2016",
+        "status": "Ongoing",
+        "episode_duration": "8m",
+        "score": null
+    },
+    "Boku wa Robot Goshi no Kimi ni Koi wo Suru": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ninja Kamui": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Xian Ni": {
+        "next_episode_count": "18",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Sep 25, 2023",
+        "status": "Ongoing",
+        "episode_duration": "23m",
+        "score": null
+    },
+    "Seishun Buta Yarou: Daigakusei-hen": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kidou Senshi Gundam: Tekketsu no Orphans - Ur\u00f0r Hunt": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Fall 2022",
+        "release_date": "Nov 15, 2022",
+        "status": "Ongoing",
+        "episode_duration": "4m",
+        "score": null
+    },
+    "Shinigami Bocchan to Kuro Maid 3rd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mekakucity Reload": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kimi no Iro": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Eisen Fl\u00fcgel": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Dandadan": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Fall 2024",
+        "release_date": "Oct 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Nora to Oujo to Noraneko Heart 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Dr. Stone: Science Future": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tai-Ari deshita.: Ojou-sama wa Kakutou Game Nante Shinai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Gaishi Dizun": {
+        "next_episode_count": "48",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2023",
+        "release_date": "Jul 30, 2023",
+        "status": "Ongoing",
+        "episode_duration": "11m",
+        "score": null
+    },
+    "Kusuriya no Hitorigoto Mini Anime": {
+        "next_episode_count": "14",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "ONA",
+        "season": "Fall 2023",
+        "release_date": "Oct 23, 2023",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "HIGHSPEED Etoile": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Onmyou Hyakki Monogatari": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Great Pretender razbliuto": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Feb 23, 2024",
+        "mediatype": "ONA",
+        "season": "Winter 2024",
+        "release_date": "Feb 23, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Nitian Xie Shen (2023)": {
+        "next_episode_count": "18",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Sep 23, 2023",
+        "status": "Ongoing",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "Chuan Shu Zijiu Zhinan: Xian Meng Pian": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "BLEACH: Sennen Kessen-hen - Soukoku-tan": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Vampire Danshiryou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Gekijouban Chainsaw Man: Reze-hen": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ao no Hako": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shen Wu Tianzun 2": {
+        "next_episode_count": "194",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Winter 2021",
+        "release_date": "Dec 21, 2020",
+        "status": "Ongoing",
+        "episode_duration": "10m",
+        "score": null
+    },
+    "Meiji Gekken: 1874": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 14, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 14, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Senpai wa Otokonoko": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Emo Faze": {
+        "next_episode_count": "17",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Sep 29, 2023",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Fangkai Nage N\u00fcwu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "Girls' Work": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Dubu Wangu": {
+        "next_episode_count": "31",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Sep 29, 2023",
+        "status": "Ongoing",
+        "episode_duration": "11m",
+        "score": null
+    },
+    "New Panty & Stocking with Garterbelt": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "The Fable": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Fate/Grand Order CMs": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Special",
+        "season": "Winter 2015",
+        "release_date": "Dec 27, 2014",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Rebuild World": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tondemo Skill de Isekai Hourou Meshi 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakkatan Daga": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wu Ying Sanqian Dao 2": {
+        "next_episode_count": "41",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2023",
+        "release_date": "Aug 26, 2023",
+        "status": "Ongoing",
+        "episode_duration": "10m",
+        "score": null
+    },
+    "BLOODY ESCAPE: Jigoku no Tousou Geki": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "Movie",
+        "season": "Winter 2024",
+        "release_date": "Jan 05, 2024",
+        "status": "Upcoming",
+        "episode_duration": "1h 37m",
+        "score": null
+    },
+    "Madougushi Dahlia wa Utsumukanai: Kyou kara Jiyuu na Shokunin Life": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Zhen Wu Dianfeng 2": {
+        "next_episode_count": "64",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Spring 2023",
+        "release_date": "May 10, 2023",
+        "status": "Ongoing",
+        "episode_duration": "9m",
+        "score": null
+    },
+    "Sousou no Frieren: \u25cf\u25cf no Mahou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Fall 2023",
+        "release_date": "Oct 11, 2023",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Bye Bye, Earth": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ochibi-san": {
+        "next_episode_count": "11",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "TV Short",
+        "season": "Fall 2023",
+        "release_date": "Oct 07, 2023",
+        "status": "Ongoing",
+        "episode_duration": "5m",
+        "score": null
+    },
+    "Karasu wa Aruji wo Erabanai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kidou Senshi Gundam SEED FREEDOM": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 26, 2024",
+        "mediatype": "Movie",
+        "season": "Winter 2024",
+        "release_date": "Jan 26, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Golden Kamuy: Saishuu Shou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shaonian Ge Xing: Anhe Zhuan": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2023",
+        "release_date": "Aug 02, 2023",
+        "status": "Delayed",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "Fushigi Dagashiya: Zenitendou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Summer 2020",
+        "release_date": "Sep 08, 2020",
+        "status": "Ongoing",
+        "episode_duration": "9m",
+        "score": null
+    },
+    "Lazarus": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kage-Jitsu! 2nd": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Fall 2023",
+        "release_date": "Oct 05, 2023",
+        "status": "Ongoing",
+        "episode_duration": "2m",
+        "score": null
+    },
+    "Shuumatsu Train Doko e Iku?": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tongari Boushi no Atelier": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "THE NEW GATE": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kikansha no Mahou wa Tokubetsu desu 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Love Live! Superstar!! 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Peng Ran Xindong": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mononoke Movie": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "Summer 2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tsuma, Shougakusei ni Naru.": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shan He Jian Xin 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Your Forma": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Moonrise": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Saikyou Degarashi Ouji no Anyaku Teii Arasoi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "I.CINNAMOROLL Animation": {
+        "next_episode_count": "14",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "ONA",
+        "season": "Fall 2023",
+        "release_date": "Oct 05, 2023",
+        "status": "Ongoing",
+        "episode_duration": "3m",
+        "score": null
+    },
+    "Girigiri Warukunai Watame": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Winter 2022",
+        "release_date": "Jan 07, 2022",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Grimm": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Cardcaptor Sakura: Clear Card-hen (Zoku-hen)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "You Yao 2": {
+        "next_episode_count": "20",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Sep 27, 2023",
+        "status": "Ongoing",
+        "episode_duration": "25m",
+        "score": null
+    },
+    "Mobile Suit Gundam: Hathaway's Flash 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mo Du Zhe": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "Wan Jie Zhizun 2": {
+        "next_episode_count": "30",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Sep 28, 2023",
+        "status": "Ongoing",
+        "episode_duration": "10m",
+        "score": null
+    },
+    "Tabi Hani": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wanmei Shijie 4": {
+        "next_episode_count": "14",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Oct 06, 2023",
+        "status": "Ongoing",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "Shimajirou no Wow!": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2012",
+        "release_date": "Apr 01, 2012",
+        "status": "Ongoing",
+        "episode_duration": "25m",
+        "score": null
+    },
+    "Delico's Nursery": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Gekijou Soushuu-hen Bocchi the Rock! - Kouhen": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "Summer 2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shuo Feng - Po Zhenzi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wo Cong Zhu Tian Wan Jie Guilai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": "Winter 2022",
+        "release_date": "Dec 30, 2021",
+        "status": "Ongoing",
+        "episode_duration": "7m",
+        "score": null
+    },
+    "Wan Jie Shen Zhu 3": {
+        "next_episode_count": "208",
+        "release_date_next_ep": "Jan 17, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Spring 2021",
+        "release_date": "Mar 17, 2021",
+        "status": "Ongoing",
+        "episode_duration": "9m",
+        "score": null
+    },
+    "Girls Band Cry": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Dungeon no Naka no Hito": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yuan Zun": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Oomuro-ke": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Feb 02, 2024",
+        "mediatype": "Movie",
+        "season": "Winter 2024",
+        "release_date": "Feb 02, 2024",
+        "status": "Upcoming",
+        "episode_duration": "40m",
+        "score": null
+    },
+    "Busu ni Hanataba wo.": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Chickip Dancers 3rd Season": {
+        "next_episode_count": "16",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "TV Short",
+        "season": "Fall 2023",
+        "release_date": "Sep 24, 2023",
+        "status": "Ongoing",
+        "episode_duration": "5m",
+        "score": null
+    },
+    "Kizumonogatari: Koyomi Vamp": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 12, 2024",
+        "mediatype": "Movie",
+        "season": "Winter 2024",
+        "release_date": "Jan 12, 2024",
+        "status": "Upcoming",
+        "episode_duration": "2h 24m",
+        "score": null
+    },
+    "Biblia Koshodou no Jiken Techou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mukuwarenakatta Murabito A, Kizoku ni Hirowarete Dekiai sareru Ue ni, Jitsu wa Motteita Densetsu-kyuu no Kami Skill mo Kakusei shita": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Xiaoke de Huatu Xie Hua": {
+        "next_episode_count": "11",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "ONA",
+        "season": "Fall 2023",
+        "release_date": "Dec 01, 2023",
+        "status": "Ongoing",
+        "episode_duration": "4m",
+        "score": null
+    },
+    "Xian Wu Chuan 2": {
+        "next_episode_count": "16",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Sep 24, 2023",
+        "status": "Ongoing",
+        "episode_duration": "18m",
+        "score": null
+    },
+    "Ensemble Stars!! Tsuioku Selection Crossroad": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Fall 2023",
+        "release_date": "Nov 10, 2023",
+        "status": "Ongoing",
+        "episode_duration": "12m",
+        "score": null
+    },
+    "Medalist": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Boushoku no Berserk Mini": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Fall 2023",
+        "release_date": "Sep 27, 2023",
+        "status": "Ongoing",
+        "episode_duration": "3m",
+        "score": null
+    },
+    "Xi Xing Ji 5": {
+        "next_episode_count": "27",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2023",
+        "release_date": "Aug 02, 2023",
+        "status": "Ongoing",
+        "episode_duration": "22m",
+        "score": null
+    },
+    "Tianbao Fuyao Lu 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Long Shidai": {
+        "next_episode_count": "26",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2023",
+        "release_date": "Jul 20, 2023",
+        "status": "Ongoing",
+        "episode_duration": "10m",
+        "score": null
+    },
+    "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": "2025",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jian Yu Chuanqi 3": {
+        "next_episode_count": "22",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Oct 29, 2023",
+        "status": "Ongoing",
+        "episode_duration": "11m",
+        "score": null
+    },
+    "Tai Yi Jian Xian Chuan": {
+        "next_episode_count": "14",
+        "release_date_next_ep": "Jan 09, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Oct 20, 2023",
+        "status": "Ongoing",
+        "episode_duration": "18m",
+        "score": null
+    },
+    "Magical\u2605Explorer": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hen Chun Hen Aimei": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Honghuang Ling Zun": {
+        "next_episode_count": "38",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2023",
+        "release_date": "Sep 10, 2023",
+        "status": "Ongoing",
+        "episode_duration": "10m",
+        "score": null
+    },
+    "Bai Lian Cheng Shen 2nd Season": {
+        "next_episode_count": "6",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Dec 08, 2023",
+        "status": "Ongoing",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "Qi Hou Bilu": {
+        "next_episode_count": "12",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Oct 28, 2023",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shaonian Ge Xing: Haiwai Xianshan Pian": {
+        "next_episode_count": "13",
+        "release_date_next_ep": "Jan 10, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Oct 25, 2023",
+        "status": "Ongoing",
+        "episode_duration": "19m",
+        "score": null
+    },
+    "Bu Si Bu Mie": {
+        "next_episode_count": "10",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Nov 16, 2023",
+        "status": "Ongoing",
+        "episode_duration": "18m",
+        "score": null
+    },
+    "Liu Yao": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Versailles no Bara (Movie)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Guimi Zhi Zhu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Acro Trip": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Cencoroll 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tonari no Youkai-san": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shen Mu 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wu Liuqi Movie": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shixiong A Shixiong 2nd Season": {
+        "next_episode_count": "6",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Dec 14, 2023",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Fanren Xiu Xian Chuan 3rd Season": {
+        "next_episode_count": "6",
+        "release_date_next_ep": "Jan 06, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Nov 25, 2023",
+        "status": "Ongoing",
+        "episode_duration": "19m",
+        "score": null
+    },
+    "Mo Zhuang Chuanshuo": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2023",
+        "release_date": "Aug 21, 2023",
+        "status": "Delayed",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tianqi Yubao": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Chimera": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Long Zu 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Dragon Ball DAIMA": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Fall 2024",
+        "release_date": "Oct 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "BLAME! Movie 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ao no Orchestra 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Grendizer U": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shi Fang Wu Sheng": {
+        "next_episode_count": "10",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Nov 10, 2023",
+        "status": "Ongoing",
+        "episode_duration": "19m",
+        "score": null
+    },
+    "Niehime to Kemono no Ou Mini Anime": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Fall 2022",
+        "release_date": "Nov 21, 2022",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Koujo Denka no Katei Kyoushi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jipin Quanneng Gaoshou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sand Land: The Series": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Astro Note": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shishigari": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yishi Zhi Zun": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "The iDOLM@STER: Shiny Colors": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Miru": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jibaku Shounen Hanako-kun 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Natsume Yuujinchou Shichi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "AWM Jixian Juji": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    " Rinkai!": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Lady Napoleon": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jin Zhan Fashi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Girls und Panzer: Saishuushou 5": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Paripi Koumei: Road To Summer Sonia": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Mar 01, 2024",
+        "mediatype": "Movie",
+        "season": "Winter 2024",
+        "release_date": "Mar 01, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Fei Ba! Lanqiu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Azur Lane: Bisoku Zenshin! 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kinnikuman (2024)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Inferno Cop 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Zero Seiki: Emeraldas": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ao no Miburo": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Fall 2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Boku to Roboco Movie": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "Winter 2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "ORBITAL ERA": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Trapezium": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "May 10, 2024",
+        "mediatype": "Movie",
+        "season": "Spring 2024",
+        "release_date": "May 10, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ye Xing Xia Ying": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shen Cang": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Murai no Koi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tu Bian Yingxiong X": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tasogare Outfocus": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Xingchen Bian 6": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Top wo Nerae 3!": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "OVA",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tiandao Tushuguan": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Nuan Yang": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hokuto no Ken: Fist of the North Star": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kui Cheng Shoufu Cong Youxi Kaishi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wuxia Shitu Yu Shier Zhan Ji": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Zhu Xian 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tian Yi Que": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "THE ONE PIECE": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "3-nen Z-gumi Ginpachi-sensei": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": "2025",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shenyuan Youxi": {
+        "next_episode_count": "7",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Dec 14, 2023",
+        "status": "Ongoing",
+        "episode_duration": "22m",
+        "score": null
+    },
+    "Xingji Jianhu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Cong Hong Yue Kaishi": {
+        "next_episode_count": "5",
+        "release_date_next_ep": "Jan 08, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Winter 2024",
+        "release_date": "Dec 25, 2023",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mu Long Shi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shangri-La Frontier Mini Anime": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Fall 2023",
+        "release_date": "Sep 28, 2023",
+        "status": "Ongoing",
+        "episode_duration": "2m",
+        "score": null
+    },
+    "Wanneng Lianai Zahuodian": {
+        "next_episode_count": "12",
+        "release_date_next_ep": "Jan 11, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Nov 09, 2023",
+        "status": "Ongoing",
+        "episode_duration": "17m",
+        "score": null
+    },
+    "Ya She": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yami Shibai 12": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 13, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 13, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jian Lai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Library Cross Infinite": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Goukon ni Ittara Onna ga Inakatta Hanashi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Garden of Remembrance": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "15m",
+        "score": null
+    },
+    "Pan Long": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Cardfight!! Vanguard: Divinez": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 12, 2024",
+        "mediatype": "TV",
+        "season": "Winter 2024",
+        "release_date": "Jan 12, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tian Wai Tian": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tou Xing Jiuyue Tian": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Da Yuzhou Shidai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Akubi wo Suru ni wa Wake ga Aru": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Juejing Biannianshi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Juan Siliang 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Cubistar": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "11m",
+        "score": null
+    },
+    "Kabushiki Gaisha Magi Lumiere": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Fall 2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Chi.: Chikyuu no Undou ni Tsuite": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Idomo": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ooi! Tonbo": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Gui Dao": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Daihao: Kuangxin": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Magical Girl Raising Project: Restart": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Xin Yichang Shengwu Jianwen Lu: Xu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jiuzhou Feichang Dao": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wo Shi Da Shenxian 3": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Fengyun Bian": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "Magical Suite Prism Nana": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "OVA",
+        "season": "Fall 2015",
+        "release_date": "Nov 29, 2015",
+        "status": "Ongoing",
+        "episode_duration": "30m",
+        "score": null
+    },
+    "Xiuxianzhe Dazhan Chaonengli": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Zhen Dao Ge 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Na Nare Hana Nare": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "URAHARA": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Bu Mie De Wo": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Diqiu Jintou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Aoao Dai Bu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Di Ba": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Boukyaku Battery (TV)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kimberly Mahou Gakkou no Yukai na Nichijou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Summer 2023",
+        "release_date": "Jun 28, 2023",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Trillion Game": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Turkey!": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Harimaware! Koinu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Winter 2024",
+        "release_date": "Jan 2024",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Watari-kun no xx ga Houkai Sunzen": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wan Gu Zui Qiang Zong": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mahoutsukai Precure! 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Special Kid Factory": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Xiaofang Yingxiong": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Gei Wo Lai Ge Xiao Heshang": {
+        "next_episode_count": "17",
+        "release_date_next_ep": "Jan 05, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Sep 29, 2023",
+        "status": "Ongoing",
+        "episode_duration": "4m",
+        "score": null
+    },
+    "Blue Archive Anime PV": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Special",
+        "season": "Winter 2021",
+        "release_date": "Jan 25, 2021",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Gudetama": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Spring 2014",
+        "release_date": "Mar 31, 2014",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Shy Season 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wu Lian Dianfeng": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "BanG Dream! Ave Mujica": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "MF Ghost Second Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Baozou Xiari": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "13m",
+        "score": null
+    },
+    "Meitantei Conan: 100-man Dol no Michishirube": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Apr 12, 2024",
+        "mediatype": "Movie",
+        "season": "Spring 2024",
+        "release_date": "Apr 12, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Idol Land PriPara": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Summer 2021",
+        "release_date": "Aug 18, 2021",
+        "status": "Ongoing",
+        "episode_duration": "24m",
+        "score": null
+    },
+    "Kijin Gentoushou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kidou Senshi Gundam: Fukushuu no Requiem": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "30m",
+        "score": null
+    },
+    "Quanqiu Gao Wu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Chang Ge Xing": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Make Heroine ga Oosugiru!": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ke Jin Wanjia": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "UniteUp! 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "MILGRAM Second Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Music",
+        "season": "Summer 2022",
+        "release_date": "Aug 24, 2022",
+        "status": "Ongoing",
+        "episode_duration": "3m",
+        "score": null
+    },
+    "Despera": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Utagoe ha Mille-Feuille": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Geats Extra: Geats Anime - Another Grand Prix": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Summer 2023",
+        "release_date": "Aug 06, 2023",
+        "status": "Ongoing",
+        "episode_duration": "4m",
+        "score": null
+    },
+    "Wo Yeye": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Daxing Wuying": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Chao Shen Jixieshi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Risou no Himo Seikatsu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ryoutei no Aji": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Special",
+        "season": "Spring 2014",
+        "release_date": "Mar 29, 2014",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Yun Shen Ji": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yeosingangnim": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Cocoon": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": "Summer 2025",
+        "release_date": "Jul 2025",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hanako": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "4m",
+        "score": null
+    },
+    "Wang Zhe Rongyao": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jifeng Jingsu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Nintama Rantarou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 1993",
+        "release_date": "Apr 10, 1993",
+        "status": "Ongoing",
+        "episode_duration": "10m",
+        "score": null
+    },
+    "Xue Zhong Han Dao X\u00edng": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Bokura no Ameiro Protocol Mini Anime": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Fall 2023",
+        "release_date": "Oct 06, 2023",
+        "status": "Ongoing",
+        "episode_duration": "3m",
+        "score": null
+    },
+    "Ling Long 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wu Shuang Shu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "i\u2606Ris the Movie: Full Energy!!": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "Summer 2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Buou Jingling": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tadaima, Okaeri": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Xitong Xianzun Zai Dushi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Xing Yuan Zhi Jing": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Xiaolong De Suishen Kongjian": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mingyun Quan Tai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Zero Seiki: Herlock": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tian Ying": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wonderful Precure!": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2024",
+        "release_date": "Apr 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Peleliu: Rakuen no Guernica": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kanojo, Okarishimasu Petit 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Fall 2023",
+        "release_date": "Sep 19, 2023",
+        "status": "Ongoing",
+        "episode_duration": "2m",
+        "score": null
+    },
+    "Ming Wang Huan Shi Lu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hoshi Furu Oukoku no Nina": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Zero Seiki: Maetel": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tom to Jerry": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Fall 2022",
+        "release_date": "Nov 11, 2022",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Raise wa Tanin ga Ii": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Sousei no Aquarion: Myth of Emotions": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Celia-sensei no Wakuwaku Magical Kyoushitsu Season 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Summer 2023",
+        "release_date": "Aug 04, 2023",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Kimi wa Meido-sama.": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ao no Orchestra 5-bu de Tanoshii Kurashikku": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Spring 2023",
+        "release_date": "Mar 20, 2023",
+        "status": "Ongoing",
+        "episode_duration": "5m",
+        "score": null
+    },
+    "Tsubu\u2605Doll": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "OVA",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Houkago Shounen Hanako-kun 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Qin Shi Ming Yue: Wang Qin Bi Chu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wushu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Zhong Yue Zhan Ji": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Miaoshou Xiandan": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Taotie Niangzi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Cardfight!! Vanguard: will+Dress Season 5": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Summer 2024",
+        "release_date": "Jul 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Rescue Academia": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kisaki Kyouiku kara Nigetai Watashi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Tuan Nei Jinzhi Lianai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ginga Eiyuu Densetsu: Die Neue These (Zoku-hen)": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Gu Xiong": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Onegai Patron-sama!": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Fall 2020",
+        "release_date": "Oct 11, 2020",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yong Wang Zhi Qian - FAST BREAK": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yichan Xiao Heshang": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2016",
+        "release_date": "Nov 02, 2016",
+        "status": "Ongoing",
+        "episode_duration": "2m",
+        "score": null
+    },
+    "Shikaru Neko": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Spring 2021",
+        "release_date": "Mar 22, 2021",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Debu to Love to Ayamachi to!": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hidarikiki no Eren": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Lan Chi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hiroshima: Natsu no Nokgori no Bara": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Le Yin Chang Ge - Poxiao": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Meng Shen Yudao Ai": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Liaotian Qun De Richang Shenghuo": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "#Compass 2.0\uff0dSentou Setsuri Kaiseki System": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2025",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wu Chengen Ji Yao Lu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Journey to Bloom": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Fall 2023",
+        "release_date": "Sep 30, 2023",
+        "status": "Ongoing",
+        "episode_duration": "5m",
+        "score": null
+    },
+    "Asi Yu Xiao Liangdang": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2020",
+        "release_date": "Jul 22, 2020",
+        "status": "Ongoing",
+        "episode_duration": "2m",
+        "score": null
+    },
+    "Biaozhun Guige Zhanshi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Youkai Gakkou no Sensei Hajimemashita!": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "MOVE TO THE FUTURE": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Winter 2019",
+        "release_date": "Feb 07, 2019",
+        "status": "Ongoing",
+        "episode_duration": "3m",
+        "score": null
+    },
+    "Puniru wa Kawaii Slime": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Zhonghua Chuangshi Zhu Shen Ji: N\u00fcwa Bu Tian Lu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Long Wu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "2h ",
+        "score": null
+    },
+    "TAISU project": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": "Summer 2022",
+        "release_date": "Jul 23, 2022",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Fureru.": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Long Xin Shaon\u00fc": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Qiu Niang": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Future Kid Takara": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": "2025",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ramen Aka Neko": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Summer 2024",
+        "release_date": "Jul 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Gaina Tamager": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Winter 2020",
+        "release_date": "Dec 24, 2019",
+        "status": "Ongoing",
+        "episode_duration": "4m",
+        "score": null
+    },
+    "Daihao: Chise": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Zatsu Tabi: That's Journey": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Wu Di De Zuqiu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Waixingren Shi Riji": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Special": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Jan 31, 2024",
+        "mediatype": "Special",
+        "season": "Winter 2024",
+        "release_date": "Jan 31, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Da Yu Hai Tang 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Baise Shandian": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Da Shi Tianxia": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Huoxing Xi Lu 7 Hao": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hui Jing Shaon\u00fc": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Yousei Chiitan\u2606": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hu x He Yao Shi Lu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Bai Yao Pu 4": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": "2023",
+        "release_date": null,
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Bajie Zhi Tian Peng Xiajie": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "1h 30m",
+        "score": null
+    },
+    "Project Symphogear: Next": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Doraemon: Nobita no Chikyuu Koukyougaku": {
+        "next_episode_count": "1",
+        "release_date_next_ep": "Mar 01, 2024",
+        "mediatype": "Movie",
+        "season": "Winter 2024",
+        "release_date": "Mar 01, 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ojarumaru": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Fall 1998",
+        "release_date": "Oct 05, 1998",
+        "status": "Ongoing",
+        "episode_duration": "10m",
+        "score": null
+    },
+    "Shin Tennis no Oujisama: U-17 World Cup Semifinal": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "Fall 2024",
+        "release_date": "Oct 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Nezha Chuanqi - Long Yu Dixiatie": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "1h 50m",
+        "score": null
+    },
+    "Kuiba IV: Mei Lingluo": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shiawase Haitatsu Taneko": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Spring 2011",
+        "release_date": "Mar 26, 2011",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Linglong Shan": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Nandemo Bakukai! Koyori-chan": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Summer 2023",
+        "release_date": "Aug 17, 2023",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Go! Go! Vehicle Zoo": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Spring 2023",
+        "release_date": "Apr 02, 2023",
+        "status": "Ongoing",
+        "episode_duration": "3m",
+        "score": null
+    },
+    "Moffun to Issho": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Spring 2023",
+        "release_date": "Jun 02, 2023",
+        "status": "Ongoing",
+        "episode_duration": "2m",
+        "score": null
+    },
+    "Crayon Shin-chan Specials": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Special",
+        "season": "Winter 1993",
+        "release_date": "Dec 28, 1992",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Shi Shi Chuanshuo": {
+        "next_episode_count": "14",
+        "release_date_next_ep": "Jan 07, 2024",
+        "mediatype": "ONA (Chinese)",
+        "season": "Fall 2023",
+        "release_date": "Dec 03, 2023",
+        "status": "Ongoing",
+        "episode_duration": "12m",
+        "score": null
+    },
+    "Kana Kana Kazoku": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Summer 2014",
+        "release_date": "Jul 26, 2014",
+        "status": "Ongoing",
+        "episode_duration": "2m",
+        "score": null
+    },
+    "Ningen Kaishuusha": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Spring 2021",
+        "release_date": "Apr 30, 2021",
+        "status": "Ongoing",
+        "episode_duration": "9m",
+        "score": null
+    },
+    "Norasco": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Fall 2013",
+        "release_date": "Nov 11, 2013",
+        "status": "Ongoing",
+        "episode_duration": "2m",
+        "score": null
+    },
+    "Hanakappa": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Spring 2010",
+        "release_date": "Mar 29, 2010",
+        "status": "Ongoing",
+        "episode_duration": "10m",
+        "score": null
+    },
+    "Fanpai Chushihua": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Xi Xing Ji: Kuang Wang": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": "2023",
+        "release_date": null,
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hana-Doll*: Reinterpretation of Flowering": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": null,
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Azur Lane Anime PVs": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Special",
+        "season": "Spring 2020",
+        "release_date": "Apr 17, 2020",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Haigakura": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "T\u30fbP Bon": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Origami Ninja Koyan @ KinTele": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Spring 2020",
+        "release_date": "Apr 06, 2020",
+        "status": "Ongoing",
+        "episode_duration": null,
+        "score": null
+    },
+    "Li Xin Zhan Ji": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "22m",
+        "score": null
+    },
+    "Knights of the Zodiac: Saint Seiya 3rd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "2024",
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Gu Jian Qi Tan": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Mendako no Menmen": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Spring 2023",
+        "release_date": "Apr 08, 2023",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Chenmo Zhi Lan": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "22m",
+        "score": null
+    },
+    "Shen Zhiyi Jiao": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Hyakushou Kizoku 2nd Season": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Otoppe": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Spring 2017",
+        "release_date": "Apr 03, 2017",
+        "status": "Ongoing",
+        "episode_duration": "3m",
+        "score": null
+    },
+    "Yun Zhong Ju San Zi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "10m",
+        "score": null
+    },
+    "Dongitsune Season 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Special",
+        "season": "Fall 2022",
+        "release_date": "Sep 28, 2022",
+        "status": "Ongoing",
+        "episode_duration": "1m",
+        "score": null
+    },
+    "Matatabi Movie Lab": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Summer 2020",
+        "release_date": "Aug 01, 2020",
+        "status": "Ongoing",
+        "episode_duration": "9m",
+        "score": null
+    },
+    "Rising Impact": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Spring 2024",
+        "release_date": "Jun 2024",
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    " Tsurubami-Iro no Nagiko-tachi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Changan Shier Shichen: Bai Ye Xingzhe": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Banshou Shounian": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Strike! Nifeng Toushou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Kidou Senshi Gundam 00: Revealed Chronicle": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Spring 2022",
+        "release_date": "Apr 04, 2022",
+        "status": "Ongoing",
+        "episode_duration": "6m",
+        "score": null
+    },
+    "Danqing Xiansheng": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Zhe Shijie You Shou": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "15m",
+        "score": null
+    },
+    "Mahou no Princess Minky Momo: Yume wo Dakishimete Specials": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Special",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": "20m",
+        "score": null
+    },
+    "Dayu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jiyi Guanli Ju 2": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Qianxi Yi Wenlu": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Jingju Mao: Bawang Zhe": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "Movie (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Ponkotsu Quest: Maou to Haken no Mamono-tachi": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA",
+        "season": "Summer 2013",
+        "release_date": "Aug 22, 2013",
+        "status": "Ongoing",
+        "episode_duration": "4m",
+        "score": null
+    },
+    "Zhun Xing": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "ONA (Chinese)",
+        "season": null,
+        "release_date": null,
+        "status": "Upcoming",
+        "episode_duration": null,
+        "score": null
+    },
+    "Liv & Bell": {
+        "next_episode_count": null,
+        "release_date_next_ep": null,
+        "mediatype": "TV Short",
+        "season": "Winter 2013",
+        "release_date": "Feb 15, 2013",
+        "status": "Ongoing",
+        "episode_duration": "5m",
+        "score": null
+    }
+}
