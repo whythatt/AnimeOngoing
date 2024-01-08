@@ -1,0 +1,33 @@
+{
+    "title": "One Piece",
+    "next_episode_count": "1089 episodes",
+    "release_date_next_ep": "Jan 07, 2024",
+    "mediatype": "TV",
+    "season": "Fall 1999",
+    "release_date": "Oct 20, 1999",
+    "status": "Ongoing",
+    "episode_duration": "24m",
+    "score": "9.05"
+},
+{
+    "title": "Sousou no Frieren",
+    "next_episode_count": "17 episodes",
+    "release_date_next_ep": "Jan 05, 2024",
+    "mediatype": "TV",
+    "season": "Fall 2023",
+    "release_date": "Sep 29, 2023",
+    "status": "Ongoing",
+    "episode_duration": "25m",
+    "score": "9.07"
+},
+{
+    "title": "Solo Leveling",
+    "next_episode_count": "1 episodes",
+    "release_date_next_ep": "Jan 06, 2024",
+    "mediatype": "TV",
+    "season": "Winter 2024",
+    "release_date": "Jan 06, 2024",
+    "status": "Upcoming",
+    "episode_duration": null,
+    "score": null
+}

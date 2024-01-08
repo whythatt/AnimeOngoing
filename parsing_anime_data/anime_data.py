@@ -1,4 +1,4 @@
-from lxml import etree, html
+from lxml import etree
 import requests
 from date_formatting import date_form
 import timeit
